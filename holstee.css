@@ -1,0 +1,90 @@
+.complete-holstee{
+    width: 400px;
+    height: 1000px;
+    border: 10px solid #000000;
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  .big-box{
+    width: 190px;
+    height: 360px;
+    padding: 20px 5px 20px 5px;
+    text-align: center;
+  
+  
+  }
+  
+  .small-box{
+    text-align: center;
+  
+  }
+  
+  .quattrocento{
+    font-family: 'quattrocento', sans-serif;
+    font-weight: 900;
+  }
+  
+  
+  #leftbox-1{
+    background-color: #e6b3ff;
+    float: left;
+    font-size: 24px;
+  
+  }
+  
+  #rightbox-1{
+    background-color: #9999ff;
+    float: right;
+    width: 150px;
+    height: 150px;
+    padding: 25px;
+  }
+  
+  #rightbox-2{
+    background-color: #336699;
+    float: right;
+    width: 150px;
+    height: 150px;
+    padding: 25px;
+  }
+  
+  #leftbox-2{
+    background-color: #9999ff;
+    float: left;
+    width: 150px;
+    height: 150px;
+    padding: 25px;
+  }
+  
+  #rightbox-3{
+    background-color: #ff99dd;
+    float: right;
+    width: 150px;
+    height: 150px;
+    padding: 25px;
+  }
+  
+  #leftbox-3{
+    background-color: #336699;
+    float: left;
+    width: 180px;
+    height: 70px;
+    padding: 65px 10px 65px 10px;
+  
+  
+  }
+  
+  #leftbox-4{
+    background-color: #ff99dd;
+    float: left;
+    clear: left;
+    width: 180px;
+    height: 70px;
+    padding: 65px 10px 65px 10px;
+  }
+  
+  #rightbox-4{
+    background-color: #e6b3ff;
+    float: right;
+    font-size: 23px;
+  }
